@@ -61,11 +61,13 @@ ollama pull gemma:2b
 streamlit run app.py
 ```
 **🧩 Project Structure**
+```
 📦 langchain-gemma-demo
  ┣ 📜 app.py                # Main Streamlit application
  ┣ 📜 .env                  # Environment variables (not to be committed)
  ┣ 📜 requirements.txt      # Project dependencies
  ┗ 📜 README.md             # Project documentation
+```
 
  💡 How It Works
 
